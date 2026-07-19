@@ -1,6 +1,6 @@
 # 🍽️ Zomato Restaurant Clustering & Sentiment Analysis
 
-**[📓 Open Notebook in Colab]([https://colab.research.google.com/github/sandeep-sankhla20/Zomato-Restaurant-Clustering/blob/main/Sample_ML_Submission_Template.ipynb](https://colab.research.google.com/drive/1c40upwyBib8BslFSCaeq6F04fiIjXqrv?usp=sharing))**
+**[📓 Open Notebook in Colab](Sample_ML_Submission_Template.ipynb)**
 
 An unsupervised machine learning project that clusters ~100 Hyderabad restaurants into
 data-driven segments and analyzes sentiment across ~10,000 customer reviews — combining
